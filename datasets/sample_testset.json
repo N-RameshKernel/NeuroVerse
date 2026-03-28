@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "expected_answer": "Paris",
+    "context": "France's capital city is Paris."
+  },
+  {
+    "prompt": "Who discovered gravity?",
+    "expected_answer": "Isaac Newton",
+    "context": "Newton formulated gravity after observing a falling apple."
+  },
+  {
+    "prompt": "What is the largest planet?",
+    "expected_answer": "Jupiter",
+    "context": "Jupiter is the largest planet in our solar system."
+  }
+]
