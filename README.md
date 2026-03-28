@@ -1,4 +1,4 @@
-# LLM Evaluation & Benchmarking Framework
+# NeuroVerse
 
 Pure Python framework for evaluating LLM responses.
 
