@@ -1,0 +1,1 @@
+def detect_hallucination(response): return 'maybe' in response.lower()

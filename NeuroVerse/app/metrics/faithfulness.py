@@ -1,0 +1,1 @@
+def check_faithfulness(response, expected): return expected.lower() in response.lower()

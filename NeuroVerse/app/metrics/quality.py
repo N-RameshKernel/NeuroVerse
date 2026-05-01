@@ -1,0 +1,1 @@
+def score_quality(response): return min(len(response)/50,1.0)
